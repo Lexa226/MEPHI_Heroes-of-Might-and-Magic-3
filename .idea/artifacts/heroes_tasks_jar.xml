@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="heroes_tasks:jar">
-    <output-path>$PROJECT_DIR$/jars</output-path>
-    <root id="archive" name="heroes_tasks.jar">
-      <element id="module-output" name="heroes_tasks" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/libs/heroes_task_lib-1.0-SNAPSHOT.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
